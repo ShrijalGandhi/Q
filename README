@@ -1,0 +1,18 @@
+
+
+
+To compile
+
+javac *.java
+
+OR use the script provided
+
+./compile --> LINUX
+
+TO RUN
+
+java Q_Learning
+
+or use the script
+
+./run --> ./run
